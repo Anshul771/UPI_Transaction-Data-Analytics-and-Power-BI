@@ -1,6 +1,8 @@
+
 # UPI_Transaction-Data-Analytics-and-Power-BI
 
-1.Overview This Power BI dashboard provides a detailed exploration of UPI (Unified Payments Interface) transactions across India. It enables interactive data slicing by banks, cities, gender, device type, merchant name, transaction type, and more.
+1.Overview
+This Power BI dashboard provides a detailed exploration of UPI (Unified Payments Interface) transactions across India. It enables interactive data slicing by banks, cities, gender, device type, merchant name, transaction type, and more.
 
 With visualizations ranging from monthly trends to city-level transaction summaries, this dashboard is designed to help stakeholders understand usage patterns, financial activity, and behavioral insights from UPI users.
 
@@ -54,3 +56,5 @@ Consistent dips were observed in March and November, suggesting seasonal UPI usa
 Add geo maps for city/district visualizations.
 
 Compare YOY (Year-over-Year) performance across cities or banks.
+
+9.Snapshot Link : https://github.com/Anshul771/UPI_Transaction-Data-Analytics-and-Power-BI/blob/3f242159bb0ab19be678d7e8541daad22c73305d/UPI%20Powerbi.png
